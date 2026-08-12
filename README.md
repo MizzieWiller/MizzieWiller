@@ -17,16 +17,19 @@
  <table>
   <tr style="height: 30px;">
     <td style="height: 50px;"> 
-     <img src="https://github.com/user-attachments/assets/66e76189-15f7-4428-90ce-b0db42a51cec" width="300">
-     ㅤㅤㅤ
+          ㅤㅤㅤ
 <div align="center">
 
- ㅤㅤㅤ $${\color{#cd90f5}Slow.}$$ $${\color{#cd90f5}Dancing}$$ㅤㅤㅤㅤ
+ ㅤㅤㅤ $${\color{#cd90f5}Slow}$$ $${\color{#cd90f5}Dancing}$$ㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤ $${\color{#cd90f5}20}$$ㅤㅤ
+ㅤㅤㅤㅤㅤㅤ $${\color{#cd90f5}20}$$
 
 
-<!-- https://github.com/user-attachments/assets/6c43d249-38de-4ec3-bd26-95f9e14edcc5 -->
+<img src="https://github.com/user-attachments/assets/90d275d4-7879-49e4-8917-f41536b0febb" width="50px">ㅤㅤ
+
+
+<!-- https://github.com/user-attachments/assets/6c43d249-38de-4ec3-bd26-95f9e14edcc5 
+     https://github.com/user-attachments/assets/66e76189-15f7-4428-90ce-b0db42a51cec" width="300"> -->
 
 
 
