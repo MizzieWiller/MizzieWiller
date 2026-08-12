@@ -1,7 +1,7 @@
 
 <div align="center">
  
- ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=cd90f5&label=pluviophile&style=flat)<br>
+ ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=7a30ab&label=pluviophile&style=flat)<br>
 
 _In all chaos there is a cosmos, in all cosmos there is a coordinated orbit. — Mw 💭_
  <img src="https://github.com/user-attachments/assets/ce60a91f-6061-4275-a3b3-0d6c51c3f4a6">
@@ -21,9 +21,9 @@ _In all chaos there is a cosmos, in all cosmos there is a coordinated orbit. —
           ㅤㅤㅤ
 <div align="center">
 
- ㅤㅤㅤ $${\color{#cd90f5}Slow}$$ $${\color{#cd90f5}Dancing}$$ㅤㅤㅤㅤ
+ ㅤㅤㅤ $${\color{#7a30ab}Slow}$$ $${\color{#7a30ab}Dancing}$$ㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤ $${\color{#cd90f5}20}$$
+ㅤㅤㅤㅤㅤㅤ $${\color{#7a30ab}20}$$
 
   
 <img src="https://github.com/user-attachments/assets/90d275d4-7879-49e4-8917-f41536b0febb" width="50px">ㅤ
