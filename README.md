@@ -1,11 +1,13 @@
-## https://cinemitic.carrd.co 🎧
+## 🎧
 
 <div align="center">
  
- ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=cd90f5&label=🤍&style=flat)<br>
+ ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=cd90f5&label=pluviophile&style=flat)<br>
 
+_In all chaos there is a cosmos, in all cosmos there is a coordinated orbit. — Mw 💭_
  <img src="https://github.com/user-attachments/assets/ce60a91f-6061-4275-a3b3-0d6c51c3f4a6">
- <img src="https://github.com/user-attachments/assets/e02eb9bd-0769-4daa-9cb7-2ee03293c5c9" width="350" align="left" style="border-radius: 40px;">
+ <img src="https://github.com/user-attachments/assets/e02eb9bd-0769-4daa-9cb7-2ee03293c5c9" width="350" align="left" style="border-radius: 40px;"> 
+
 
 <br>
 <br>
@@ -25,6 +27,7 @@
 ㅤㅤㅤㅤㅤㅤ $${\color{#cd90f5}20}$$
 
 
+   [cinemitic](https://cinemitic.carrd.co)
 <img src="https://github.com/user-attachments/assets/90d275d4-7879-49e4-8917-f41536b0febb" width="50px">ㅤㅤ
 
 
