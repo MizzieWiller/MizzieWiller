@@ -29,7 +29,7 @@ _In all chaos there is a cosmos, in all cosmos there is a coordinated orbit. —
 <img src="https://github.com/user-attachments/assets/90d275d4-7879-49e4-8917-f41536b0febb" width="50px">ㅤ
  <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zae6jn7ubuic8kl0hchz5aghd&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zae6jn7ubuic8kl0hchz5aghd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
    [୨୧](https://cinemitic.carrd.co)⠀⠀[.-.. . - / .. - / --. ---](https://open.spotify.com/intl-pt/track/26trS5IUeIbXrKAuFMdzWT?si=6b94cca48bc94414)⠀⠀[୨୧](https://pin.it/lNf0QdrCs)
 ㅤ
