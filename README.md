@@ -4,8 +4,10 @@
  
  ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=cd90f5&label=🤍&style=flat)<br>
 
- <img src="espiral.jfif">
- <img src="espiral.jfif" width="500" align="left">
+ <img src="
+">
+ <img src="
+" width="500" align="left">
 
 <br>
 <br>
