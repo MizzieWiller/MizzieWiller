@@ -6,12 +6,11 @@
  <img src="https://github.com/user-attachments/assets/17b45f43-8daa-415d-b851-96ade0032448" width="997" height="20" align="right">
  <img src="https://github.com/user-attachments/assets/e02eb9bd-0769-4daa-9cb7-2ee03293c5c9" width="350" align="left" style="border-radius: 20px;"> 
  
-<p align="center">
 <img src="https://github.com/user-attachments/assets/99157bda-c48d-4227-81e1-5402cb5d31bc" width="25" height="25"> ${\color{#a668e3} In \space all \space chaos \space there \space is \space a \space cosmos, \space in \space all \space cosmos \space there \space is \space a \space coordinated \space orbit. ,}$ 
 ${\color{#a95f89}}$ ಣ𓈒ֵ۫ 
 <br>
 <img src="https://files.catbox.moe/x8jgvc.gif" width="25" height="25"> ${\color{#d1abf7} the \space closer \space you \space look \space \space ྀི \space  ˚̣ \space the \space less \space you \space see}$ <img src="https://files.catbox.moe/7ypvys.gif" width="25" height="25"> 
-</p>
+
 
 <br>
 <br>
