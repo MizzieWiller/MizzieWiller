@@ -4,7 +4,7 @@
  ![](https://komarev.com/ghpvc/?username=MizzieWiller&color=7a30ab&label=pluviophile&style=flat)<br>
 
 <br>
- <img src="https://github.com/user-attachments/assets/17b45f43-8daa-415d-b851-96ade0032448" width="997" height="20" align="right">
+ <img src="https://github.com/user-attachments/assets/17b45f43-8daa-415d-b851-96ade0032448" width="997" height="20" align="center">
  <br><br><br> <img src="https://github.com/user-attachments/assets/e02eb9bd-0769-4daa-9cb7-2ee03293c5c9" width="300" align="left" style="border-radius: 20px;"> 
  </div>
 
