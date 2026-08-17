@@ -22,7 +22,7 @@ ${\color{#a95f89}}$ ಣ𓈒ֵ۫
 <br>
  
  <table align="center">
-  <tr style="height: 30px;">
+  <tr style="height: 40px;">
     <td style="height: 50px;">     
           ㅤㅤㅤ
 <div align="center">
