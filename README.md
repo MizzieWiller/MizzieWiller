@@ -19,6 +19,9 @@
   <a href="https://pin.it/lNf0QdrCs" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-a668e3?style=for-the-badge&logo=pinterest&logoColor=f5f0ff" />
   </a>
+  <a href="mailto:anacsilvabarra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-a668e3?style=for-the-badge&logo=gmail&logoColor=f5f0ff" />
+  </a>
 </p>
 
 <p align="center">
@@ -34,7 +37,7 @@
 <br/>
 
 <p>
-  <em>Oi! 🌙 <b>Eu sou a Ana</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
+  <em>Oi! 🌙 <b>Eu sou a Mizzie</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
 </p>
 
 <div align="center">
@@ -68,6 +71,7 @@
   <img src="https://img.shields.io/badge/JAVA-a668e3?style=for-the-badge&logo=openjdk&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/NODE.JS-a668e3?style=for-the-badge&logo=nodedotjs&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-a668e3?style=for-the-badge&logo=javascript&logoColor=f5f0ff" />
+  <img src="https://img.shields.io/badge/CSS3-a668e3?style=for-the-badge&logo=css3&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/FIGMA-a668e3?style=for-the-badge&logo=figma&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/GIT-a668e3?style=for-the-badge&logo=git&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/GITHUB-a668e3?style=for-the-badge&logo=github&logoColor=f5f0ff" />
