@@ -5,7 +5,7 @@
 <line x1="2" y1="22" x2="198" y2="22" stroke="#a668e3" stroke-opacity="0.35"/>
 <text x="14" y="16" font-family="'Courier New', Courier, monospace" font-size="9.5" fill="#8b6cf0" letter-spacing="1">design.fig</text>
 <circle cx="170" cy="12" r="2" fill="#d1abf7"/><circle cx="178" cy="12" r="2" fill="#d1abf7" fill-opacity="0.7"/><circle cx="186" cy="12" r="2" fill="#8ecbff"/>
-<g transform="translate(76,34) scale(2)"><g stroke="#d1abf7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 3 L18 13 Q12 17.5 6 13 Z"/><path d="M12 15.2 V21"/><path d="M9 21 h6"/></g><circle cx="12" cy="11" r="1.5" fill="#8ecbff"/></g>
+<g transform="translate(76,34) scale(2)"><g stroke="#d1abf7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/></g><circle cx="13.5" cy="6.5" r="1.2" fill="#8ecbff"/><circle cx="17.5" cy="10.5" r="1.2" fill="#8ecbff"/><circle cx="8.5" cy="7.5" r="1.2" fill="#8ecbff"/><circle cx="6.5" cy="12.5" r="1.2" fill="#8ecbff"/></g>
 <text x="100" y="108" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" font-weight="bold" letter-spacing="3" fill="url(#tg)">DESIGN</text>
 <text x="100" y="130" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#d1abf7" fill-opacity="0.9">dar forma às ideias</text>
 </g><g transform="translate(220,0)">
