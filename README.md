@@ -30,7 +30,7 @@
   <img src="imgs/sobre-mim.svg" alt="About me" height="70" />
 </h2>
 
-<img src="imgs/angel.webp" width="300" align="right" alt="" />
+<img src="imgs/angel.webp" width="230" align="right" alt="" />
 <br/>
 
 <p>
@@ -100,7 +100,6 @@
 | [**ADS-Fatec**](https://github.com/MizzieWiller/ADS-Fatec) | Resumos de aulas, atividades e projetos do curso de ADS na Fatec Itapetininga | `C++` |
 | [**SO**](https://github.com/MizzieWiller/SO) | Dashboard de Sistemas Operacionais: painel que mostra memória, CPU e rede do servidor em tempo real. [Ver online](https://so-co8a.onrender.com/) | `Node.js` `Express` |
 
-[`1°Ciclo`](https://github.com/MizzieWiller/ADS-Fatec/tree/main/1%C2%B0Ciclo) · [`3° Ciclo`](https://github.com/MizzieWiller/ADS-Fatec/tree/main/3%C2%B0%20Ciclo)
 
 </div>
 
