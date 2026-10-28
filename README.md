@@ -27,14 +27,14 @@
 <br>
 
 <h2 align="center">
-  <img src="imgs/sobre-mim.svg" alt="Sobre mim" height="70" />
+  <img src="imgs/sobre-mim.svg" alt="About me" height="70" />
 </h2>
 
 <img src="imgs/angel.webp" width="230" align="right" alt="" />
 <br/>
 
 <p>
-  Oi! 🌙 <em><b>Eu sou a Mizzie</b></em>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b> e <b>Node.js</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.
+  <em>Oi! 🌙 <b>Eu sou a Mizzie</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b> e <b>Node.js</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
 </p>
 
 <div align="center">
@@ -46,8 +46,6 @@
   <img src="imgs/icon-moon.svg" height="22" align="absmiddle" /> <code>Estudando na FATEC</code>
   &nbsp;&nbsp;
   <img src="imgs/icon-star.svg" height="22" align="absmiddle" /> <code>Aprendendo todo dia</code>
-  &nbsp;&nbsp;
-  <img src="imgs/icon-chat.svg" height="22" align="absmiddle" /> <code>Aberta a conversas</code>
   <br/><br/>
 </p>
 
@@ -68,7 +66,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="imgs/tecnologias.svg" alt="Tecnologias" height="70" />
+  <img src="imgs/tecnologias.svg" alt="Technologies" height="70" />
 </h2>
 
 <p align="center">
@@ -88,17 +86,17 @@
 <br/>
 
 <h2 align="center">
-  <img src="imgs/alem-do-codigo.svg" alt="Além do código" height="70" />
+  <img src="imgs/alem-do-codigo.svg" alt="Beyond code" height="70" />
 </h2>
 
 <p align="center">
-  <img src="imgs/interesses.svg" alt="Design, fotografia, música e cosmos" width="860" />
+  <img src="imgs/interesses.svg" alt="Design, photography, music and cosmos" width="860" />
 </p>
 
 <br/>
 
 <h2 align="center">
-  <img src="imgs/projetos.svg" alt="Projetos" height="70" />
+  <img src="imgs/projetos.svg" alt="Projects" height="70" />
 </h2>
 
 <div align="center">
@@ -115,7 +113,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="imgs/estatisticas.svg" alt="Estatísticas" height="70" />
+  <img src="imgs/estatisticas.svg" alt="Stats" height="70" />
 </h2>
 
 <p align="center">
