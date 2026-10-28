@@ -141,7 +141,7 @@
 <br/>
 
 <p align="center">
-  <img src="imgs/footer.svg" alt="end of transmission" height="95" />
+  <img src="imgs/footer-end.svg" alt="end of transmission" height="95" />
 </p>
 
 <p align="center">
