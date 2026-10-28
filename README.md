@@ -84,16 +84,6 @@
 <br/>
 
 <h2 align="center">
-  <img src="imgs/alem-do-codigo.svg" alt="Beyond code" height="70" />
-</h2>
-
-<p align="center">
-  <img src="imgs/interesses.svg" alt="Design, photography, music and cosmos" width="860" />
-</p>
-
-<br/>
-
-<h2 align="center">
   <img src="imgs/projetos.svg" alt="Projects" height="70" />
 </h2>
 
@@ -106,6 +96,16 @@
 
 
 </div>
+
+<br/>
+
+<h2 align="center">
+  <img src="imgs/alem-do-codigo.svg" alt="Beyond code" height="70" />
+</h2>
+
+<p align="center">
+  <img src="imgs/interesses.svg" alt="Design, photography, music and cosmos" width="860" />
+</p>
 
 <br/>
 
