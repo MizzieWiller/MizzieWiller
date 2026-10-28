@@ -41,25 +41,19 @@
   <img src="imgs/line-lilas.svg" width="533" height="3" />
 </div>
 
-<p align="center">
-  <br/>
-  <img src="imgs/icon-moon.svg" height="22" align="absmiddle" /> <code>Estudando na FATEC</code>
-  &nbsp;&nbsp;
-  <img src="imgs/icon-star.svg" height="22" align="absmiddle" /> <code>Aprendendo todo dia</code>
-  <br/><br/>
-</p>
-
-<div align="center">
-  <img src="imgs/line-azul.svg" width="533" height="3" />
-</div>
-
 <div align="center">
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/99157bda-c48d-4227-81e1-5402cb5d31bc" width="25" height="25"> ${\color{#a668e3} In \space all \space chaos \space there \space is \space a \space cosmos, \space in \space all \space cosmos \space there \space is \space a \space coordinated \space orbit.}$ ಣ𓈒ֵ۫ <br> <br>
-<img src="https://files.catbox.moe/x8jgvc.gif" width="25" height="25"> ${\color{#d1abf7} the \space closer \space you \space look \space \space ྀི \space ˚̣ \space the \space less \space you \space see}$ <img src="https://files.catbox.moe/7ypvys.gif" width="25" height="25">
+<img src="imgs/icon-moon.svg" width="25" height="25" align="absmiddle"> ${\color{#a668e3} In \space all \space chaos \space there \space is \space a \space cosmos, \space in \space all \space cosmos \space there \space is \space a \space coordinated \space orbit.}$ ಣ𓈒ֵ۫ <br> <br>
+<img src="imgs/icon-star.svg" width="25" height="25" align="absmiddle"> ${\color{#d1abf7} the \space closer \space you \space look \space \space ྀི \space ˚̣ \space the \space less \space you \space see}$ <img src="imgs/icon-star.svg" width="25" height="25" align="absmiddle">
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="imgs/line-azul.svg" width="533" height="3" />
 </div>
 
 <br clear="right"/>
