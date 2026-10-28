@@ -34,7 +34,7 @@
 <br/>
 
 <p>
-  <em>Oi! 🌙 <b>Eu sou a Mizzie</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
+  <em>Oi! 🌙 <b>Eu sou a Ana</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
 </p>
 
 <div align="center">
