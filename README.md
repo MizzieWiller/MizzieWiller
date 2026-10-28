@@ -30,7 +30,7 @@
   <img src="imgs/sobre-mim.svg" alt="About me" height="70" />
 </h2>
 
-<img src="imgs/angel.webp" width="230" align="right" alt="" />
+<img src="imgs/angel.webp" width="300" align="right" alt="" />
 <br/>
 
 <p>
