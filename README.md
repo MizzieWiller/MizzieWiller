@@ -34,7 +34,7 @@
 <br/>
 
 <p>
-  Oi! 🌙 <em><b>Eu sou a Mizzie</b></em>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo pelo caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos, e estou sempre com vontade de aprender, construir coisas e crescer como desenvolvedora.
+  Oi! 🌙 <em><b>Eu sou a Mizzie</b></em>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <div align="center">
-  <img src="imgs/line-pessego.svg" width="533" height="3" />
+  <img src="imgs/line-azul.svg" width="533" height="3" />
 </div>
 
 <div align="center">
@@ -73,6 +73,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-a668e3?style=for-the-badge&logo=cplusplus&logoColor=f5f0ff" />
+  <img src="https://img.shields.io/badge/JAVA-a668e3?style=for-the-badge&logo=openjdk&logoColor=f5f0ff" />
+  <img src="https://img.shields.io/badge/FIGMA-a668e3?style=for-the-badge&logo=figma&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/GIT-a668e3?style=for-the-badge&logo=git&logoColor=f5f0ff" />
   <img src="https://img.shields.io/badge/GITHUB-a668e3?style=for-the-badge&logo=github&logoColor=f5f0ff" />
 </p>
@@ -80,6 +82,16 @@
 <!-- Quando aprender algo novo, copie uma linha acima e troque o nome e o logo.
      Exemplo: https://img.shields.io/badge/PYTHON-a668e3?style=for-the-badge&logo=python&logoColor=f5f0ff
      Lista de logos: https://simpleicons.org -->
+
+<br/>
+
+<h2 align="center">
+  <img src="imgs/alem-do-codigo.svg" alt="Além do código" height="70" />
+</h2>
+
+<p align="center">
+  <img src="imgs/interesses.svg" alt="Design, fotografia, música e cosmos" width="860" />
+</p>
 
 <br/>
 
@@ -104,7 +116,7 @@
 </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MizzieWiller&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a668e3&text_color=d1abf7&icon_color=ffb89a&ring_color=a668e3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MizzieWiller&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a668e3&text_color=d1abf7&icon_color=8ecbff&ring_color=a668e3" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizzieWiller&layout=compact&hide_border=true&bg_color=0d1117&title_color=a668e3&text_color=d1abf7" />
 </p>
 

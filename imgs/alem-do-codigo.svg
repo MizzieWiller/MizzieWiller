@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 70" width="600" height="70">
+<defs><linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d1abf7"/><stop offset="0.55" stop-color="#a668e3"/><stop offset="1" stop-color="#8ecbff"/></linearGradient></defs>
+<rect x="3" y="6" width="594" height="58" rx="12" fill="#1a1530" fill-opacity="0.65" stroke="#a668e3" stroke-width="1.5"/>
+<line x1="3" y1="24" x2="597" y2="24" stroke="#a668e3" stroke-opacity="0.35"/>
+<text x="20" y="19" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8b6cf0" letter-spacing="1">hobbies.exe</text>
+<text x="570" y="19" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="11" fill="#d1abf7" letter-spacing="3">_ □ x</text>
+<text x="300" y="54" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="26" font-weight="bold" letter-spacing="4" fill="url(#tg)">ALÉM DO CÓDIGO</text>
+<path d="M123.5,34 C123.5,40.8 124.7,42 131.5,42 C124.7,42 123.5,43.2 123.5,50 C123.5,43.2 122.3,42 115.5,42 C122.3,42 123.5,40.8 123.5,34 Z" fill="#8ecbff"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="0.2s" repeatCount="indefinite"/></path><path d="M476.5,34 C476.5,40.8 477.7,42 484.5,42 C477.7,42 476.5,43.2 476.5,50 C476.5,43.2 475.3,42 468.5,42 C475.3,42 476.5,40.8 476.5,34 Z" fill="#8ecbff"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="1.4s" repeatCount="indefinite"/></path>
+</svg>
