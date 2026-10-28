@@ -13,7 +13,7 @@
   <a href="https://cinemitic.carrd.co" target="_blank">
     <img src="https://img.shields.io/badge/Carrd-a668e3?style=for-the-badge&logo=carrd&logoColor=f5f0ff" />
   </a>
-  <a href="[https://open.spotify.com/playlist/7aSO3XeyktGlcrr5O60NlI?si=37ddf21c04204416](https://open.spotify.com/user/zae6jn7ubuic8kl0hchz5aghd?si=72d6122de42d45ad)" target="_blank">
+  <a href="https://open.spotify.com/user/zae6jn7ubuic8kl0hchz5aghd?si=72d6122de42d45ad" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-a668e3?style=for-the-badge&logo=spotify&logoColor=f5f0ff" />
   </a>
   <a href="https://pin.it/lNf0QdrCs" target="_blank">
