@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
+    <a href="https://cinemitic.carrd.co" target="_blank">
+    <img src="https://img.shields.io/badge/Carrd-a668e3?style=for-the-badge&logo=carrd&logoColor=f5f0ff" />
+  </a>
   <a href="https://github.com/MizzieWiller" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-a668e3?style=for-the-badge&logo=github&logoColor=f5f0ff" />
-  </a>
-  <a href="https://cinemitic.carrd.co" target="_blank">
-    <img src="https://img.shields.io/badge/Carrd-a668e3?style=for-the-badge&logo=carrd&logoColor=f5f0ff" />
   </a>
   <a href="https://open.spotify.com/user/zae6jn7ubuic8kl0hchz5aghd?si=72d6122de42d45ad" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-a668e3?style=for-the-badge&logo=spotify&logoColor=f5f0ff" />
   </a>
+    <a href="https://mail.google.com/mail/u/0/?to=anacsilvabarra@gmail.com&fs=1&tf=cm">
+    <img src="https://img.shields.io/badge/Email-a668e3?style=for-the-badge&logo=gmail&logoColor=f5f0ff" />
+  </a>  
   <a href="https://pin.it/lNf0QdrCs" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-a668e3?style=for-the-badge&logo=pinterest&logoColor=f5f0ff" />
   </a>
-  <a href="mailto:anacsilvabarra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-a668e3?style=for-the-badge&logo=gmail&logoColor=f5f0ff" />
-  </a>
-</p>
+  </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MizzieWiller&label=astrophile&color=7a30ab&style=flat" alt="visitas" />
@@ -37,7 +37,7 @@
 <br/>
 
 <p>
-  <em>Oi! 🌙 <b>Eu sou a Mizzie</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
+  <em>Oi! 🌙 <b>Eu sou a Ana</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Itapetininga. Este cantinho da internet é onde eu guardo meus <b>projetos</b> e meus <b>estudos de programação</b>, principalmente em <b>C++</b>, e onde compartilho o que vou aprendendo ao longo do caminho. ✨ Sou curiosa por natureza, apaixonada pelo cosmos e por música, estou sempre com vontade de aprender, construir coisas e melhorar como desenvolvedora.</em>
 </p>
 
 <div align="center">
