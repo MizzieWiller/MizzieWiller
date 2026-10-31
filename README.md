@@ -10,9 +10,6 @@
     <a href="https://cinemitic.carrd.co" target="_blank">
     <img src="https://img.shields.io/badge/Carrd-a668e3?style=for-the-badge&logo=carrd&logoColor=f5f0ff" />
   </a>
-  <a href="https://github.com/MizzieWiller" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-a668e3?style=for-the-badge&logo=github&logoColor=f5f0ff" />
-  </a>
   <a href="https://open.spotify.com/user/zae6jn7ubuic8kl0hchz5aghd?si=72d6122de42d45ad" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-a668e3?style=for-the-badge&logo=spotify&logoColor=f5f0ff" />
   </a>
@@ -21,6 +18,9 @@
   </a>  
   <a href="https://pin.it/lNf0QdrCs" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-a668e3?style=for-the-badge&logo=pinterest&logoColor=f5f0ff" />
+  </a>
+  <a href="https://github.com/MizzieWiller" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-a668e3?style=for-the-badge&logo=github&logoColor=f5f0ff" />
   </a>
   </p>
 
